@@ -1,1 +1,1 @@
-# ANN_MNIST
+# Handwritten Digit Recognition using MNIST Dataset
